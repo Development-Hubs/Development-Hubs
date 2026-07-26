@@ -1,16 +1,8 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Shahzad Tanveer — Senior Full Stack Developer" width="100%" />
+  <img src="./assets/banner.svg" alt="Shahzad Tanveer - Senior Full Stack Developer" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Shahzad Tanveer 👋</h1>
-
-<h3 align="center">Senior Full Stack Developer · Laravel & PHP · Enterprise ERP · Cloud Deployment</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=9%2B+Years+Building+Business+Software;Enterprise+ERP+%7C+APIs+%7C+Cloud+Infrastructure;Turning+Complex+Operations+into+Reliable+Workflows" alt="Animated professional introduction" />
-</p>
-
-<div align="center">
   <a href="https://www.linkedin.com/in/shahzad-tanveer07/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -21,204 +13,124 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Development-Hubs&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
+</p>
 
----
+## About me
 
-## 👨‍💻 About me
+I'm a **Senior Full Stack Developer based in Doha, Qatar**, with **9+ years of experience** designing, building, deploying, and maintaining business-critical software.
 
-I'm a **Senior Full Stack Developer in Doha, Qatar**, with **9+ years of experience** building and operating enterprise web applications. I specialize in Laravel/PHP systems, ERP architecture, business workflow automation, APIs, cloud deployment, and maintainable database-driven products.
+My primary focus is **Laravel/PHP engineering, enterprise ERP architecture, business workflow automation, APIs, database design, and cloud deployment**. I currently contribute to a centralized ERP ecosystem serving operations across **19 countries** and supporting **500+ users**.
 
-I currently develop a centralized ERP ecosystem supporting:
+- Building secure and maintainable ERP, CRM, HRM, finance, inventory, and recruitment systems
+- Designing configurable workflows, role-based access, approvals, dashboards, and document processes
+- Connecting websites, mobile applications, REST APIs, payment services, and third-party platforms
+- Managing Linux-based production environments, deployment, SSL, backups, optimization, and support
 
-- Operations across **19 countries**
-- More than **500 users**
-- Recruitment, HR, finance, document, approval, and reporting workflows
-- Websites, mobile applications, third-party APIs, and payment integrations
+## Professional impact
 
-```php
-<?php
-
-$shahzad = [
-    'focus'       => ['Enterprise ERP', 'Business Automation', 'Cloud Deployment'],
-    'backend'     => ['Laravel', 'PHP', 'Python', 'Django', 'Node.js'],
-    'frontend'    => ['React', 'Vue.js', 'JavaScript', 'Bootstrap'],
-    'mobile'      => ['React Native', 'Flutter', 'Android', 'Dart'],
-    'devops'      => ['Git', 'GitHub', 'Docker', 'Kubernetes', 'CI/CD'],
-    'cloud'       => ['AWS', 'Microsoft Azure', 'Linux', 'Nginx'],
-    'ecommerce'   => ['WordPress', 'WooCommerce', 'Shopify'],
-    'databases'   => ['MySQL', 'PostgreSQL', 'MongoDB'],
-    'principles'  => ['Secure', 'Scalable', 'Maintainable'],
-];
-```
-
-## 🏆 Achievements & impact
-
-| Achievement | Impact |
+| | Achievement |
 |---|---|
-| 🌍 Multi-country ERP architecture | Centralized business operations spanning **19 countries** |
-| 👥 Enterprise-scale adoption | Supports **500+ users** across operational departments |
-| 🗓️ Long-term engineering experience | **9+ years** delivering and maintaining production software |
-| 🧩 End-to-end business systems | ERP, CRM, HRM, accounting, inventory, POS, eCommerce, and mobile integrations |
-| ☁️ Production ownership | AWS/Linux deployment, SSL, backups, optimization, troubleshooting, and support |
-| 🔐 Secure business workflows | RBAC, authentication, authorization, validation, approvals, and audit-focused processes |
-| 🔌 Connected platforms | Websites, mobile applications, REST APIs, payment gateways, and third-party integrations |
-| 💼 Full delivery lifecycle | Requirements, architecture, database design, development, testing, deployment, and maintenance |
+| **19 countries** | Multi-country ERP workflows supporting geographically distributed operations |
+| **500+ users** | Enterprise platform adoption across recruitment, HR, finance, operations, and management |
+| **9+ years** | Full software lifecycle experience from requirements and architecture to production support |
+| **End-to-end delivery** | Web, mobile, APIs, databases, cloud deployment, security, reporting, and automation |
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Development-Hubs&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
-</div>
+## Core expertise
 
-> GitHub trophies and statistics above are calculated from real public activity. Professional impact includes verified experience from my CV and private enterprise work.
-
-## 🧭 What I build
-
-| Area | Experience |
+| Area | Technologies and capabilities |
 |---|---|
-| Enterprise systems | ERP, CRM, HRM, inventory, POS, accounting, finance, and eCommerce |
-| Backend engineering | Laravel, PHP, CodeIgniter, Python, Django, Node.js, Express, and REST APIs |
-| Frontend engineering | React, Vue.js, JavaScript, Bootstrap, responsive dashboards, and admin panels |
-| Data | MySQL, PostgreSQL, MongoDB, schema design, reporting, and query optimization |
-| Cloud and DevOps | Git, GitHub, Docker, Kubernetes, GitHub Actions, CI/CD, AWS, Azure, Linux, Nginx, SSL, backups, and production support |
-| Mobile development | React Native, Flutter, Dart, Android, and API-connected mobile applications |
-| CMS and commerce | WordPress, WooCommerce, Shopify, eCommerce, and payment integrations |
-| Application security | RBAC, authentication, authorization, validation, and security hardening |
+| **Backend and APIs** | PHP, Laravel, CodeIgniter, Python, Django, Node.js, Express.js, REST APIs, webhooks |
+| **Frontend** | JavaScript, React, Vue.js, HTML5, CSS3, Bootstrap, responsive admin interfaces |
+| **Mobile** | React Native, Flutter, Dart, Android, API-connected mobile applications |
+| **Data** | MySQL, PostgreSQL, MongoDB, schema design, query optimization, reporting |
+| **Cloud and DevOps** | AWS, Microsoft Azure, Linux, AlmaLinux, Docker, GitHub Actions, CI/CD, Nginx |
+| **CMS and commerce** | WordPress, WooCommerce, Shopify, eCommerce, payment integrations |
+| **Security** | RBAC, authentication, authorization, validation, audit trails, security hardening |
+| **Enterprise software** | ERP, CRM, HRM, accounting, finance, inventory, POS, recruitment platforms |
 
-## 🛠️ Technology stack
+## Technology stack
 
-### Backend and APIs
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,express&perline=6" alt="Backend development technologies" />
-</div>
-
-### Frontend and mobile
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,vue,html,css,bootstrap,flutter,dart,androidstudio&perline=9" alt="Frontend and mobile development technologies" />
-</div>
+### Application engineering
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,express,js,react,vue,html,css,bootstrap&perline=12" alt="Application engineering technologies" />
 </p>
 
-### Databases, cloud, and DevOps
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,kubernetes,githubactions,aws,azure,linux,nginx,bash,postman&perline=7" alt="Database, cloud, and DevOps technologies" />
-</div>
+### Mobile, data, and commerce
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon AWS" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-</p>
-
-### DevOps capabilities
-
-| Capability | Tools and practices |
-|---|---|
-| Version control | Git, GitHub, branching strategies, pull requests, code reviews, and release tags |
-| Containers | Docker, Docker Compose, image optimization, environment isolation, and containerized deployments |
-| Orchestration | Kubernetes fundamentals, deployments, services, configuration, scaling, and workload management |
-| CI/CD | GitHub Actions, automated tests, build pipelines, deployment workflows, and release automation |
-| Cloud infrastructure | AWS, Microsoft Azure, Linux/AlmaLinux servers, DNS, SSL, backups, and production operations |
-| Web infrastructure | Nginx, Apache, reverse proxying, process management, caching, and performance tuning |
-| Reliability | Monitoring, logging, troubleshooting, database backups, recovery planning, and security hardening |
-
-### CMS and eCommerce
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Payment_Gateways-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Payment gateway integration" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,mysql,postgres,mongodb,wordpress&perline=7" alt="Mobile, database, and CMS technologies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-Advanced-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Enterprise_ERP-Architecture-0EA5E9?style=flat-square" alt="Enterprise ERP architecture" />
-  <img src="https://img.shields.io/badge/REST_APIs-Integration-10B981?style=flat-square&logo=fastapi&logoColor=white" alt="REST API integration" />
-  <img src="https://img.shields.io/badge/AWS-Deployment-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS deployment" />
-  <img src="https://img.shields.io/badge/Linux-Production-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux production" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
 </p>
 
-## 🚀 Selected engineering work
+### Cloud and DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,githubactions,aws,azure,linux,nginx,bash,postman&perline=11" alt="Cloud and DevOps technologies" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-Fundamentals-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes fundamentals" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions CI/CD" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Amazon AWS" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+</p>
+
+## Selected engineering experience
 
 ### Multi-country ERP ecosystem
 
-A centralized manpower and recruitment platform connecting candidate registration, client inquiries, operational workflows, document processing, approvals, finance, HR, websites, mobile applications, and real-time reporting across 19 countries.
+Centralized manpower and recruitment operations through configurable candidate workflows, client inquiries, contracts, document processing, approvals, finance, HR, websites, mobile applications, and real-time reporting across 19 countries.
 
-### Accounting and finance systems
+### Accounting and finance applications
 
-Business applications covering chart of accounts, general ledger, accounts payable and receivable, invoicing, expenses, bank reconciliation, multi-currency operations, profit and loss, balance sheet, cash flow, and audit trails.
+Delivered functionality covering chart of accounts, general ledger, accounts payable and receivable, invoicing, expenses, bank reconciliation, multi-currency operations, profit and loss, balance sheet, cash flow, and audit trails.
 
-### Business platforms and automation
+### Business platforms and integrations
 
-ERP, CRM, HRM, inventory, POS, eCommerce, multi-vendor marketplaces, WordPress platforms, food delivery, garage management, Flutter applications, API integrations, payment gateways, and AI-assisted tools.
+Built and supported ERP, CRM, HRM, inventory, POS, eCommerce, multi-vendor marketplace, WordPress, mobile, payment gateway, and third-party API solutions.
 
-> Most enterprise work is maintained in private repositories because it contains proprietary business logic and customer data. Public case studies and sanitized demonstration projects are being prepared.
+> Enterprise source code remains private to protect employer and client intellectual property. Sanitized public demonstrations and technical case studies will be added progressively.
 
-## 📊 GitHub statistics
+## Public portfolio roadmap
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Development-Hubs&theme=github-dark-blue&hide_border=true&background=00000000" height="175" alt="GitHub contribution streak" />
-</div>
+| Project | Purpose | Status |
+|---|---|---|
+| `laravel-erp-starter` | Modular ERP architecture, RBAC, workflows, reporting, and audit logs | Planned |
+| `recruitment-workflow-demo` | Configurable multi-stage recruitment process using safe demonstration data | Planned |
+| `laravel-accounting-api` | Secure accounting and finance REST API with tests and documentation | Planned |
+| `dockerized-laravel-deployment` | Docker, Nginx, database, queue, and CI/CD production example | Planned |
+| `flutter-business-app-demo` | Flutter application connected to a documented Laravel API | Planned |
+| `python-business-automation` | Practical reporting, synchronization, and workflow automation tools | Planned |
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Development-Hubs&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=00000000" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Development-Hubs&show_icons=true&hide_border=true&rank_icon=github&theme=default&bg_color=00000000" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Development-Hubs&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=00000000" alt="Shahzad's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Development-Hubs&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Development-Hubs&layout=compact&hide_border=true&theme=default&bg_color=00000000&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Development-Hubs&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8" alt="Most used languages" />
-  </picture>
-</div>
+## Current focus
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Development-Hubs&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=7c3aed&point=22d3ee" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Development-Hubs&theme=minimal&hide_border=true&bg_color=00000000&color=0969da&line=7c3aed&point=0891b2" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Development-Hubs&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=7c3aed&point=22d3ee" alt="Contribution activity graph" />
-  </picture>
-</div>
+- Architecting maintainable multi-country ERP and workflow systems
+- Improving Laravel performance, security, testing, and API design
+- Building reusable services for web and mobile applications
+- Containerizing applications and strengthening CI/CD workflows
+- Developing practical Kubernetes knowledge and cloud deployment patterns
+- Preparing sanitized technical demonstrations from enterprise experience
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Development-Hubs&theme=github_dark" width="100%" alt="GitHub profile contribution summary" />
-</div>
+## Let's connect
 
-## 🎯 Current direction
+I'm open to discussing senior full stack, Laravel, ERP, business application, and cloud-focused opportunities.
 
-- Architecting configurable multi-country ERP workflows
-- Improving Laravel performance, security, and maintainability
-- Building reusable APIs for web and mobile products
-- Containerizing applications with Docker and improving CI/CD workflows
-- Expanding Kubernetes, AWS, Azure, and production reliability practices
-- Exploring practical AI automation for business operations
-- Preparing sanitized public case studies from enterprise experience
-
-## 🤝 Let's build something
-
-I'm open to discussing senior full stack, Laravel, ERP, and business application opportunities.
-
-<div align="center">
+<p align="center">
   <a href="mailto:shahzadtanveer360@gmail.com"><strong>Email</strong></a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/shahzad-tanveer07/"><strong>LinkedIn</strong></a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://weberpsolutions.com/"><strong>Portfolio</strong></a>
-  <br /><br />
-  <sub>Building software that turns complex operations into clear, reliable workflows.</sub>
-</div>
+</p>
+
+<p align="center">
+  <sub>Building reliable software that turns complex business operations into clear workflows.</sub>
+</p>
