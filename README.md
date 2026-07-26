@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Shahzad Tanveer — Senior Full Stack Developer" width="100%" />
+  <img src="./assets/banner.svg" alt="Shahzad Tanveer — Senior Full Stack Developer" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Shahzad Tanveer 👋</h1>
@@ -44,7 +44,8 @@ $shahzad = [
     'backend'     => ['Laravel', 'PHP', 'Python', 'Django', 'Node.js'],
     'frontend'    => ['React', 'Vue.js', 'JavaScript', 'Bootstrap'],
     'mobile'      => ['React Native', 'Flutter', 'Android', 'Dart'],
-    'cloud'       => ['AWS', 'Microsoft Azure', 'Linux', 'Docker'],
+    'devops'      => ['Git', 'GitHub', 'Docker', 'Kubernetes', 'CI/CD'],
+    'cloud'       => ['AWS', 'Microsoft Azure', 'Linux', 'Nginx'],
     'ecommerce'   => ['WordPress', 'WooCommerce', 'Shopify'],
     'databases'   => ['MySQL', 'PostgreSQL', 'MongoDB'],
     'principles'  => ['Secure', 'Scalable', 'Maintainable'],
@@ -78,7 +79,7 @@ $shahzad = [
 | Backend engineering | Laravel, PHP, CodeIgniter, Python, Django, Node.js, Express, and REST APIs |
 | Frontend engineering | React, Vue.js, JavaScript, Bootstrap, responsive dashboards, and admin panels |
 | Data | MySQL, PostgreSQL, MongoDB, schema design, reporting, and query optimization |
-| Cloud and DevOps | AWS, Microsoft Azure, Linux, AlmaLinux, Docker, CI/CD, SSL, backups, and production support |
+| Cloud and DevOps | Git, GitHub, Docker, Kubernetes, GitHub Actions, CI/CD, AWS, Azure, Linux, Nginx, SSL, backups, and production support |
 | Mobile development | React Native, Flutter, Dart, Android, and API-connected mobile applications |
 | CMS and commerce | WordPress, WooCommerce, Shopify, eCommerce, and payment integrations |
 | Application security | RBAC, authentication, authorization, validation, and security hardening |
@@ -106,13 +107,32 @@ $shahzad = [
 ### Databases, cloud, and DevOps
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,azure,docker,linux,git,github,nginx,postman&perline=11" alt="Database, cloud, and DevOps technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,kubernetes,githubactions,aws,azure,linux,nginx,bash,postman&perline=7" alt="Database, cloud, and DevOps technologies" />
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon AWS" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
+
+### DevOps capabilities
+
+| Capability | Tools and practices |
+|---|---|
+| Version control | Git, GitHub, branching strategies, pull requests, code reviews, and release tags |
+| Containers | Docker, Docker Compose, image optimization, environment isolation, and containerized deployments |
+| Orchestration | Kubernetes fundamentals, deployments, services, configuration, scaling, and workload management |
+| CI/CD | GitHub Actions, automated tests, build pipelines, deployment workflows, and release automation |
+| Cloud infrastructure | AWS, Microsoft Azure, Linux/AlmaLinux servers, DNS, SSL, backups, and production operations |
+| Web infrastructure | Nginx, Apache, reverse proxying, process management, caching, and performance tuning |
+| Reliability | Monitoring, logging, troubleshooting, database backups, recovery planning, and security hardening |
 
 ### CMS and eCommerce
 
@@ -184,6 +204,8 @@ ERP, CRM, HRM, inventory, POS, eCommerce, multi-vendor marketplaces, WordPress p
 - Architecting configurable multi-country ERP workflows
 - Improving Laravel performance, security, and maintainability
 - Building reusable APIs for web and mobile products
+- Containerizing applications with Docker and improving CI/CD workflows
+- Expanding Kubernetes, AWS, Azure, and production reliability practices
 - Exploring practical AI automation for business operations
 - Preparing sanitized public case studies from enterprise experience
 
