@@ -17,13 +17,14 @@
 
 ## About me
 
-I'm a **Senior Full Stack Developer based in Doha, Qatar**, with **9+ years of experience** designing, building, deploying, and maintaining business-critical software.
+I'm a **Senior Full Stack & Mobile Application Developer based in Doha, Qatar**, with **9+ years of experience** designing, building, deploying, and maintaining business-critical software for web, mobile, and enterprise operations.
 
-My primary focus is **Laravel/PHP engineering, enterprise ERP architecture, business workflow automation, APIs, database design, and cloud deployment**. I currently contribute to a centralized ERP ecosystem serving operations across **19 countries** and supporting **500+ users**.
+My primary focus is **Laravel/PHP engineering, Flutter and React Native mobile development, Android applications, enterprise ERP architecture, business workflow automation, APIs, database design, and cloud deployment**. I currently contribute to a centralized ERP ecosystem serving operations across **19 countries** and supporting **500+ users**.
 
 - Building secure and maintainable ERP, CRM, HRM, finance, inventory, and recruitment systems
 - Designing configurable workflows, role-based access, approvals, dashboards, and document processes
-- Connecting websites, mobile applications, REST APIs, payment services, and third-party platforms
+- Building Flutter, React Native, and Android applications connected to secure REST APIs
+- Connecting mobile apps with authentication, notifications, payments, media, location services, and third-party platforms
 - Managing Linux-based production environments, deployment, SSL, backups, optimization, and support
 
 ## Professional impact
@@ -41,7 +42,10 @@ My primary focus is **Laravel/PHP engineering, enterprise ERP architecture, busi
 |---|---|
 | **Backend and APIs** | PHP, Laravel, CodeIgniter, Python, Django, Node.js, Express.js, REST APIs, webhooks |
 | **Frontend** | JavaScript, React, Vue.js, HTML5, CSS3, Bootstrap, responsive admin interfaces |
-| **Mobile** | React Native, Flutter, Dart, Android, API-connected mobile applications |
+| **Flutter development** | Flutter, Dart, responsive UI, reusable widgets, navigation, state management, API integration |
+| **React Native development** | React Native, JavaScript, cross-platform UI, navigation, REST APIs, authentication |
+| **Android development** | Android Studio, Kotlin, Java fundamentals, Gradle, native Android application structure |
+| **Mobile integrations** | Push notifications, OTP/login, payments, maps/location, media, local storage, RTL/LTR support |
 | **Data** | MySQL, PostgreSQL, MongoDB, schema design, query optimization, reporting |
 | **Cloud and DevOps** | AWS, Microsoft Azure, Linux, AlmaLinux, Docker, GitHub Actions, CI/CD, Nginx |
 | **CMS and commerce** | WordPress, WooCommerce, Shopify, eCommerce, payment integrations |
@@ -56,14 +60,27 @@ My primary focus is **Laravel/PHP engineering, enterprise ERP architecture, busi
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,express,js,react,vue,html,css,bootstrap&perline=12" alt="Application engineering technologies" />
 </p>
 
-### Mobile, data, and commerce
+### Mobile application development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,mysql,postgres,mongodb,wordpress&perline=7" alt="Mobile, database, and CMS technologies" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,java,androidstudio,firebase&perline=7" alt="Flutter, React Native, and Android development technologies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-Cross--Platform-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter development" />
+  <img src="https://img.shields.io/badge/Dart-Mobile_Apps-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/React_Native-Mobile_Apps-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native development" />
+  <img src="https://img.shields.io/badge/Android-Native_Apps-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android development" />
+  <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Android development" />
+</p>
+
+### Data, CMS, and commerce
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,wordpress&perline=4" alt="Database and CMS technologies" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" alt="WooCommerce" />
 </p>
@@ -83,6 +100,21 @@ My primary focus is **Laravel/PHP engineering, enterprise ERP architecture, busi
   <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
 </p>
 
+## Mobile application development
+
+I build mobile experiences that connect clean user interfaces with secure backend services and real business workflows.
+
+| Capability | Focus |
+|---|---|
+| **Cross-platform apps** | Flutter/Dart and React Native applications for Android and iOS codebases |
+| **Native Android** | Android Studio, Kotlin, Gradle, activities, screens, resources, and application lifecycle |
+| **Architecture** | Feature-based structure, reusable components, state management, repositories, services, and models |
+| **Backend connectivity** | Laravel/PHP and REST API integration, JSON, authentication, validation, and error handling |
+| **User experience** | Responsive layouts, animations, forms, search, filters, media previews, and accessibility |
+| **Business features** | OTP/login, profiles, orders, payments, notifications, chat, history, status tracking, and reports |
+| **Localization** | English/Arabic interfaces, RTL/LTR layouts, localized content, and Qatar-focused user experiences |
+| **Release readiness** | Environment configuration, secure secrets, build variants, testing, signing, and store preparation |
+
 ## Selected engineering experience
 
 ### Multi-country ERP ecosystem
@@ -92,6 +124,10 @@ Centralized manpower and recruitment operations through configurable candidate w
 ### Accounting and finance applications
 
 Delivered functionality covering chart of accounts, general ledger, accounts payable and receivable, invoicing, expenses, bank reconciliation, multi-currency operations, profit and loss, balance sheet, cash flow, and audit trails.
+
+### Mobile-connected business applications
+
+Developed and integrated Android, Flutter, and React Native application experiences with PHP/Laravel backends, authentication, customer profiles, media, operational status tracking, payments, and business APIs.
 
 ### Business platforms and integrations
 
@@ -107,21 +143,24 @@ Built and supported ERP, CRM, HRM, inventory, POS, eCommerce, multi-vendor marke
 | `recruitment-workflow-demo` | Configurable multi-stage recruitment process using safe demonstration data | Planned |
 | `laravel-accounting-api` | Secure accounting and finance REST API with tests and documentation | Planned |
 | `dockerized-laravel-deployment` | Docker, Nginx, database, queue, and CI/CD production example | Planned |
-| `flutter-business-app-demo` | Flutter application connected to a documented Laravel API | Planned |
+| [`smart-price-finder`](https://github.com/Development-Hubs/smart-price-finder) | Android application with PHP admin panel, REST API, and MySQL database | In development |
+| `flutter-manpower-connect` | Bilingual Flutter marketplace connected to a Laravel API | In development |
+| `react-native-business-app` | React Native customer application with authentication and API integration | Planned |
 | `python-business-automation` | Practical reporting, synchronization, and workflow automation tools | Planned |
 
 ## Current focus
 
 - Architecting maintainable multi-country ERP and workflow systems
 - Improving Laravel performance, security, testing, and API design
-- Building reusable services for web and mobile applications
+- Building professional Flutter, React Native, and native Android applications
+- Connecting mobile applications to reusable Laravel/PHP APIs
 - Containerizing applications and strengthening CI/CD workflows
 - Developing practical Kubernetes knowledge and cloud deployment patterns
 - Preparing sanitized technical demonstrations from enterprise experience
 
 ## Let's connect
 
-I'm open to discussing senior full stack, Laravel, ERP, business application, and cloud-focused opportunities.
+I'm open to discussing senior full stack, Flutter, React Native, Android, Laravel, ERP, mobile application, and cloud-focused opportunities.
 
 <p align="center">
   <a href="mailto:shahzadtanveer360@gmail.com"><strong>Email</strong></a>
