@@ -2,6 +2,12 @@
   <img src="./assets/banner.svg" alt="Shahzad Tanveer - Senior Full Stack Developer" width="100%" />
 </div>
 
+<h1 align="center">Senior Full Stack, ERP, Web &amp; Mobile Application Developer</h1>
+
+<p align="center">
+  <strong>Laravel · PHP · Flutter · React Native · Android · REST APIs · AWS · Linux · Docker · DevOps</strong>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shahzad-tanveer07/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,9 +23,9 @@
 
 ## About me
 
-I'm a **Senior Full Stack & Mobile Application Developer based in Doha, Qatar**, with **9+ years of experience** designing, building, deploying, and maintaining business-critical software for web, mobile, and enterprise operations.
+I'm a **Senior Full Stack, ERP, Web & Mobile Application Developer based in Doha, Qatar**, with **9+ years of experience** designing, building, deploying, and maintaining business-critical software for web, mobile, and enterprise operations.
 
-My primary focus is **Laravel/PHP engineering, Flutter and React Native mobile development, Android applications, enterprise ERP architecture, business workflow automation, APIs, database design, and cloud deployment**. I currently contribute to a centralized ERP ecosystem serving operations across **19 countries** and supporting **500+ users**.
+My primary focus is **Laravel/PHP engineering, enterprise ERP and web application architecture, Flutter and React Native mobile development, Android applications, business workflow automation, REST APIs, database design, AWS/Linux infrastructure, cloud deployment, and DevOps practices**. I currently contribute to a centralized ERP ecosystem serving operations across **19 countries** and supporting **500+ users**.
 
 - Building secure and maintainable ERP, CRM, HRM, finance, inventory, and recruitment systems
 - Designing configurable workflows, role-based access, approvals, dashboards, and document processes
@@ -160,7 +166,7 @@ Built and supported ERP, CRM, HRM, inventory, POS, eCommerce, multi-vendor marke
 
 ## Let's connect
 
-I'm open to discussing senior full stack, Flutter, React Native, Android, Laravel, ERP, mobile application, and cloud-focused opportunities.
+I'm open to discussing senior full stack, enterprise ERP, web, Flutter, React Native, Android, Laravel, PHP, API, AWS/Linux, mobile application, cloud, and DevOps-focused opportunities.
 
 <p align="center">
   <a href="mailto:shahzadtanveer360@gmail.com"><strong>Email</strong></a>
