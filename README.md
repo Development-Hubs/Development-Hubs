@@ -86,7 +86,7 @@ My public engineering roadmap is focused on deeper, inspectable evidence rather 
 - A bilingual business mobile application connected to a reusable Laravel API
 - Meaningful open-source contributions to the Laravel, PHP, API, and RTL ecosystems
 
-## Professional development · August 2026 to March 2027
+## Professional development
 
 | Focus | Practical outcome |
 |---|---|
