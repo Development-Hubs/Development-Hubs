@@ -21,13 +21,13 @@
   </a>
 </p>
 
-## Engineering business-critical software
+## Engineering Business-Critical Software
 
 I am a Doha-based senior software engineer with **9+ years of experience** designing, building, deploying, and supporting enterprise applications. My work spans **19 ERP systems**, supports **500+ users**, and serves business operations across **eight countries**.
 
 I specialize in turning complex recruitment, HR, finance, CRM, inventory, and operational processes into secure, maintainable software. My responsibilities cover the complete delivery lifecycle: requirements, architecture, database design, APIs, web and mobile applications, deployment, performance, security, backups, and production support.
 
-## Professional impact
+## Professional Impact
 
 | Impact | Evidence |
 |---|---|
@@ -37,7 +37,7 @@ I specialize in turning complex recruitment, HR, finance, CRM, inventory, and op
 | **9+ years** | Architecture, engineering, deployment, optimization, and support |
 | **English and Arabic** | LTR/RTL web and mobile application experiences |
 
-## Core engineering strengths
+## Core Engineering Strengths
 
 - **Enterprise applications:** ERP, CRM, HRM, recruitment, accounting, inventory, approvals, reporting, and audit trails
 - **Backend engineering:** PHP, Laravel, REST APIs, webhooks, authentication, RBAC, queues, scheduling, and integrations
@@ -46,7 +46,7 @@ I specialize in turning complex recruitment, HR, finance, CRM, inventory, and op
 - **Data engineering:** MySQL, PostgreSQL, MongoDB, schema design, migrations, reporting, and query optimization
 - **Cloud and operations:** AWS, Linux, AlmaLinux, Docker, Nginx, SSL, CI/CD, monitoring, backups, and security hardening
 
-## Technology stack
+## Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,react,vue,js,ts,html,css,bootstrap&perline=11" alt="Application engineering technologies" />
@@ -60,7 +60,7 @@ I specialize in turning complex recruitment, HR, finance, CRM, inventory, and op
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,java,androidstudio,firebase&perline=7" alt="Mobile application technologies" />
 </p>
 
-## Selected public work
+## Selected Public Work
 
 ### [Enterprise Content Platform](https://github.com/Development-Hubs/laravel-content-management-assignment)
 
@@ -76,7 +76,7 @@ An Android application connected to a PHP administration panel, REST API, and My
 
 > Employer and client source code remains private. Public repositories use original or sanitized implementations without production credentials, customer data, or proprietary code.
 
-## Building next
+## Building Next
 
 My public engineering roadmap is focused on deeper, inspectable evidence rather than technology badges:
 
@@ -86,7 +86,7 @@ My public engineering roadmap is focused on deeper, inspectable evidence rather 
 - A bilingual business mobile application connected to a reusable Laravel API
 - Meaningful open-source contributions to the Laravel, PHP, API, and RTL ecosystems
 
-## Professional development
+## Professional Development
 
 | Focus | Practical outcome |
 |---|---|
@@ -97,7 +97,7 @@ My public engineering roadmap is focused on deeper, inspectable evidence rather 
 | **System design** | Scalable APIs, data models, queues, caching, and observability |
 | **Technical leadership** | Architecture decisions, documentation, reviews, and delivery ownership |
 
-## Engineering principles
+## Engineering Principles
 
 - Build for clarity, security, maintainability, and measurable business value
 - Automate repeatable work and make production behavior observable
