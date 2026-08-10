@@ -111,9 +111,9 @@ A complete bilingual content-management platform combining Laravel 12, React, Re
 
 ### [Smart Price Finder](https://github.com/Development-Hubs/smart-price-finder) — Mobile and Backend Prototype
 
-An Android application connected to a PHP administration panel, REST API, and MySQL database for product, store, category, pricing, and report-management workflows.
+A native Kotlin Android application connected to a PHP administration panel, REST API, and MySQL database for product, store, category, pricing, and report-management workflows.
 
-**Engineering depth demonstrated:** Android application structure · PHP backend · REST API integration · MySQL · authentication · administrative CRUD workflows · mobile-to-server data flow
+**Engineering depth demonstrated:** Kotlin · native Android · Android Studio · Gradle · PHP backend · REST API integration · MySQL · authentication · administrative CRUD workflows · mobile-to-server data flow
 
 ## Portfolio at a Glance
 
@@ -136,6 +136,26 @@ Beyond the public repositories, my professional work includes:
 - Website, WordPress, WooCommerce, Shopify, payment gateway, webhook, and third-party API integrations
 
 > Employer and client source code remains private. Public repositories use original, fictional, or sanitized implementations without production credentials, customer data, real bank details, private documents, or proprietary code.
+
+## Flagship Engineering Portfolio
+
+These projects represent the senior engineering capabilities developed across my professional work and original portfolio architecture. Public repositories are linked where available; private client implementations remain confidential, and additional sanitized repositories will be published progressively.
+
+| Project | Senior capability demonstrated | Product and engineering scope | Evidence status |
+|---|---|---|---|
+| **WorkforceOS** | Enterprise SaaS and ERP architecture | Multi-tenant workforce, HRM, recruitment, attendance, payroll, documents, approvals, RBAC, audit trails, dashboards, and integration-ready APIs | Professional portfolio specification |
+| [**GulfLedger**](https://github.com/Development-Hubs/gulfledger) | Financial correctness and compliance integration | Multi-tenant accounting, double-entry controls, billing, reporting, regional e-invoicing readiness, API governance, and secure AWS deployment design | Public architecture foundation |
+| **DocuGuard AI** | Practical AI and document automation | OCR, extraction, classification, validation, expiry and compliance checks, exception workflows, human review, audit history, and secure document handling | Professional portfolio specification |
+| **FieldFlow** | Real-time, mobile, and geospatial engineering | Dispatch, field teams, driver workflows, live status, routes, location-aware assignments, offline-capable mobile operations, proof of service, alerts, and dashboards | Professional portfolio specification |
+| **CloudShip** | AWS, Terraform, DevOps, and observability | Self-service application deployment, infrastructure as code, CI/CD, containers, environment promotion, secrets, logs, metrics, traces, health checks, and rollback | Professional portfolio specification |
+| **University Exam Preparation Platform** | Scalable EdTech and assessment engineering | Universities, programs, subjects, question banks, randomized exams, timed attempts, results, subscriptions, administration, imports, and performance analytics | Professional portfolio specification |
+
+### Flagship Architecture Themes
+
+- **Enterprise control:** multi-tenancy, RBAC, configurable workflows, approvals, auditability, reporting, and secure integrations
+- **Web and mobile delivery:** Laravel/PHP APIs, React web applications, Flutter and React Native clients, native Kotlin Android, localization, notifications, payments, and offline-aware workflows
+- **Cloud platform engineering:** AWS, Linux, Docker, Kubernetes, Terraform, GitHub Actions, Nginx, SSL, monitoring, backups, scaling, and incident recovery
+- **Responsible AI:** traceable document processing, confidence and exception handling, human approval, privacy controls, and measurable operational value
 
 ## Complete GitHub Repository Index
 
@@ -162,7 +182,7 @@ My mobile portfolio combines cross-platform product engineering with secure Lara
 | **Manpower Connect** | Bilingual Qatar manpower marketplace with maid profiles, CV/video previews, customer addresses, orders, payments, ledger, replacement/refund workflows, notifications, and support | Flutter, Dart, Laravel REST API, MySQL, Firebase, RTL/LTR | Repository preparation |
 | **Amanal Baith Marketplace** | Customer-to-manpower-company consultation and services platform with company onboarding, candidate approval, online payments, medical/ID/delivery services, and portals | Flutter, Laravel, MySQL, payments, maps/location, RBAC | Repository preparation |
 | **ERP Field Operations Mobile** | Mobile companion for candidate processing, approvals, document capture, workflow status, incidents, alerts, and operational dashboards | Flutter, Dart, REST APIs, offline cache, push notifications | Repository preparation |
-| **Smart Price Finder — Flutter Edition** | Cross-platform price comparison with stores, products, categories, price reports, moderation, search, and administration integration | Flutter, Dart, PHP/Laravel API, MySQL | Repository preparation |
+| [**Smart Price Finder**](https://github.com/Development-Hubs/smart-price-finder) | Native Android price comparison with stores, products, categories, price reports, moderation, search, and administration integration | Kotlin, Android Studio, Gradle, PHP REST API, MySQL | Public mobile/backend prototype |
 | **GulfLedger Mobile Client** | Bilingual finance companion for dashboards, invoices, expenses, approvals, receivables, and tenant-aware access | React Native, TypeScript, OpenAPI, Laravel, PostgreSQL | Defined in GulfLedger architecture |
 
 ### Mobile Engineering Capabilities
@@ -182,6 +202,9 @@ My mobile portfolio combines cross-platform product engineering with secure Lara
 
 | Project or system | Domain and delivered scope | Visibility |
 |---|---|---|
+| **UK HRM & Compliance System** | HRM, employee records, attendance, leave, documents, compliance evidence, approval workflows, reporting, and secure operational controls for a UK-market organization working under relevant Home Department approval requirements | Private client work |
+| **Delivery Company ERP, Mobile Application & Website** | End-to-end delivery operations covering customers, orders, dispatch, drivers, status tracking, proof of delivery, payments, reports, administration, mobile workflows, and the public website | Private client work |
+| **Order2Eat — UK Customer Platform** | Digital ordering and business-platform engineering delivered for UK customer **Order2Eat**, with customer-facing and administrative workflows integrated around its operating requirements | Private client work |
 | **Multi-Country Manpower & Recruitment ERP Ecosystem** | Candidate, employee, client, CRM, HRM, documents, approvals, invoicing, payments, reporting, websites, mobile apps, APIs, and synchronization across eight-country operations | Private professional work |
 | **Recruitment & Manpower Operations Platform** | Configurable candidate onboarding, contracts, visa, work-contract, incident, document, deployment, notification, calendar, and reporting workflows | Private professional work |
 | **Accounting & Finance ERP** | Chart of accounts, journals, ledgers, receivables, payables, invoicing, expenses, reconciliation, multi-currency, financial statements, and audit trails | Private professional work |
@@ -195,6 +218,8 @@ My mobile portfolio combines cross-platform product engineering with secure Lara
 | **AI-Integrated & Business Automation Tools** | Workflow automation, data synchronization, reporting, document processing, and operational assistance | Private professional work |
 
 </details>
+
+> The UK HRM entry describes work for an organization operating with the relevant approval requirements; it does not claim that this GitHub profile or any public repository is government-certified. Order2Eat is identified here as a customer at the account owner's request.
 
 > Planned public repositories will use fictional organizations, synthetic data, non-production credentials, and sanitized workflows. Employer code, customer records, real bank details, private documents, and proprietary integrations will remain private.
 
