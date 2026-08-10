@@ -1,17 +1,120 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title description">
-  <title id="title">Shahzad Tanveer - Senior Full Stack, ERP, Cloud and Mobile Solutions Engineer</title>
-  <desc id="description">Professional developer banner featuring enterprise ERP, cloud, mobile, and DevOps engineering.</desc>
+  <title id="title">Shahzad Tanveer — Senior Full-Stack, ERP, Cloud and Mobile Solutions Engineer</title>
+  <desc id="description">Premium technology banner presenting enterprise application engineering, cloud platforms, web, mobile and DevOps expertise.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020617"/><stop offset="0.5" stop-color="#0b1120"/><stop offset="1" stop-color="#111827"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#2563eb" stop-opacity=".28"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#38bdf8" stroke-opacity=".07"/></pattern>
-    <filter id="shadow"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.52" stop-color="#081225"/>
+      <stop offset="1" stop-color="#11102b"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="0.48" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17233d" stop-opacity=".88"/>
+      <stop offset="1" stop-color="#0b1428" stop-opacity=".82"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#93c5fd" stroke-opacity=".055"/>
+      <circle cx="1" cy="1" r="1" fill="#67e8f9" fill-opacity=".12"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#020617" flood-opacity=".7"/>
+    </filter>
+    <clipPath id="frame"><rect width="1440" height="420" rx="28"/></clipPath>
   </defs>
-  <rect width="1440" height="420" rx="28" fill="url(#background)"/><rect width="1440" height="420" rx="28" fill="url(#grid)"/><ellipse cx="720" cy="210" rx="520" ry="260" fill="url(#glow)"/>
-  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".55"><path d="M80 96h150l42 42h112"/><path d="M64 322h170l54-54h105"/><circle cx="80" cy="96" r="6" fill="#22d3ee"/><circle cx="393" cy="268" r="6" fill="#3b82f6"/><path d="M1060 112h108l44 44h158"/><path d="M1050 310h142l50-50h134"/><circle cx="1060" cy="112" r="6" fill="#8b5cf6"/><circle cx="1376" cy="260" r="6" fill="#22d3ee"/></g>
-  <g opacity=".75" fill="none" stroke="#38bdf8" stroke-width="2"><rect x="104" y="150" width="86" height="58" rx="8"/><path d="M123 169l-13 10 13 10M171 169l13 10-13 10"/><ellipse cx="1285" cy="170" rx="54" ry="18"/><path d="M1231 170v60c0 10 24 18 54 18s54-8 54-18v-60M1231 200c0 10 24 18 54 18s54-8 54-18"/></g>
-  <g text-anchor="middle" font-family="Segoe UI, Arial, sans-serif"><text x="720" y="172" fill="url(#accent)" font-size="64" font-weight="800" letter-spacing="3" filter="url(#shadow)">SHAHZAD TANVEER</text><text x="720" y="224" fill="#e2e8f0" font-size="23" font-weight="600" letter-spacing="1">SENIOR FULL STACK · ERP · CLOUD &amp; MOBILE ENGINEER</text><text x="720" y="272" fill="#94a3b8" font-size="18" letter-spacing="2">LARAVEL  •  REACT  •  FLUTTER  •  AWS  •  LINUX  •  DEVOPS</text></g>
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" text-anchor="middle"><g transform="translate(356 326)"><rect width="145" height="34" rx="17" fill="#0f172a" stroke="#22d3ee" stroke-opacity=".55"/><text x="72.5" y="22" fill="#cbd5e1">LARAVEL · PHP</text></g><g transform="translate(519 326)"><rect width="140" height="34" rx="17" fill="#0f172a" stroke="#3b82f6" stroke-opacity=".55"/><text x="70" y="22" fill="#cbd5e1">PYTHON · APIs</text></g><g transform="translate(677 326)"><rect width="190" height="34" rx="17" fill="#0f172a" stroke="#6366f1" stroke-opacity=".55"/><text x="95" y="22" fill="#cbd5e1">FLUTTER · REACT NATIVE</text></g><g transform="translate(885 326)"><rect width="198" height="34" rx="17" fill="#0f172a" stroke="#8b5cf6" stroke-opacity=".55"/><text x="99" y="22" fill="#cbd5e1">AWS · LINUX · DOCKER · K8S</text></g></g>
-  <rect x="1" y="1" width="1438" height="418" rx="27" fill="none" stroke="url(#accent)" stroke-opacity=".3" stroke-width="2"/>
+
+  <g clip-path="url(#frame)">
+    <rect width="1440" height="420" fill="url(#bg)"/>
+    <rect width="1440" height="420" fill="url(#grid)"/>
+    <ellipse cx="260" cy="120" rx="400" ry="280" fill="url(#cyanGlow)"/>
+    <ellipse cx="1260" cy="270" rx="470" ry="330" fill="url(#violetGlow)"/>
+    <path d="M0 350C260 280 450 430 720 350S1160 250 1440 330V420H0Z" fill="#1d4ed8" fill-opacity=".04"/>
+
+    <!-- Architecture network -->
+    <g fill="none" stroke="url(#brand)" stroke-width="1.6" opacity=".38">
+      <path d="M80 78h142l42 42h150"/>
+      <path d="M1050 72h132l46 46h150"/>
+      <path d="M1110 202h105l38-38h112"/>
+      <path d="M72 278h126l38-38h120"/>
+    </g>
+    <g fill="#67e8f9">
+      <circle cx="80" cy="78" r="4"/><circle cx="414" cy="120" r="4" opacity=".55"/>
+      <circle cx="1050" cy="72" r="4" opacity=".55"/><circle cx="1378" cy="118" r="4"/>
+      <circle cx="1110" cy="202" r="4" opacity=".55"/><circle cx="1365" cy="164" r="4"/>
+      <circle cx="72" cy="278" r="4"/><circle cx="356" cy="240" r="4" opacity=".55"/>
+    </g>
+
+    <!-- Brand monogram -->
+    <g transform="translate(103 111)" filter="url(#shadow)">
+      <rect width="176" height="176" rx="42" fill="#071427" fill-opacity=".92" stroke="url(#brand)" stroke-width="2"/>
+      <rect x="12" y="12" width="152" height="152" rx="33" fill="none" stroke="#7dd3fc" stroke-opacity=".16"/>
+      <path d="M42 52h92M42 124h92" stroke="url(#brand)" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+      <text x="88" y="109" text-anchor="middle" fill="url(#brand)" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-3" filter="url(#softGlow)">ST</text>
+      <circle cx="42" cy="52" r="5" fill="#67e8f9"/><circle cx="134" cy="124" r="5" fill="#a78bfa"/>
+    </g>
+
+    <!-- Identity -->
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <g transform="translate(330 73)">
+        <rect width="286" height="29" rx="14.5" fill="#0e2036" stroke="#38bdf8" stroke-opacity=".35"/>
+        <circle cx="18" cy="14.5" r="4" fill="#34d399"/>
+        <text x="32" y="19" fill="#a5f3fc" font-size="12" font-weight="700" letter-spacing="1.55">BUILDING BUSINESS-CRITICAL SOFTWARE</text>
+      </g>
+      <text x="330" y="158" fill="url(#brand)" font-size="61" font-weight="800" letter-spacing="2" filter="url(#softGlow)">SHAHZAD TANVEER</text>
+      <text x="333" y="202" fill="#f1f5f9" font-size="23" font-weight="650" letter-spacing=".55">SENIOR FULL-STACK · ERP · CLOUD &amp; MOBILE SOLUTIONS ENGINEER</text>
+      <text x="333" y="239" fill="#94a3b8" font-size="16" font-weight="500" letter-spacing="1.1">ENTERPRISE SAAS  ·  FINTECH  ·  AI AUTOMATION  ·  REAL-TIME SYSTEMS</text>
+    </g>
+
+    <!-- Capability cards -->
+    <g transform="translate(330 282)" font-family="Segoe UI, Arial, sans-serif" filter="url(#shadow)">
+      <g>
+        <rect width="300" height="78" rx="17" fill="url(#panel)" stroke="#22d3ee" stroke-opacity=".35"/>
+        <rect x="0" y="0" width="5" height="78" rx="2.5" fill="#22d3ee"/>
+        <circle cx="31" cy="27" r="13" fill="#22d3ee" fill-opacity=".13" stroke="#22d3ee" stroke-opacity=".55"/>
+        <path d="M34 21l6 6-6 6M28 21l-6 6 6 6" fill="none" stroke="#67e8f9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="53" y="31" fill="#e2e8f0" font-size="14" font-weight="750" letter-spacing=".8">APPLICATION ENGINEERING</text>
+        <text x="22" y="58" fill="#93c5fd" font-size="13">Laravel · React · Flutter · Kotlin</text>
+      </g>
+      <g transform="translate(318 0)">
+        <rect width="300" height="78" rx="17" fill="url(#panel)" stroke="#60a5fa" stroke-opacity=".35"/>
+        <rect x="0" y="0" width="5" height="78" rx="2.5" fill="#60a5fa"/>
+        <circle cx="31" cy="27" r="13" fill="#60a5fa" fill-opacity=".13" stroke="#60a5fa" stroke-opacity=".55"/>
+        <path d="M23 29c0-4 3-7 7-7 2-4 9-3 10 2 4 0 6 3 6 6 0 4-3 6-7 6H28c-3 0-5-3-5-7Z" fill="none" stroke="#93c5fd" stroke-width="1.7"/>
+        <text x="53" y="31" fill="#e2e8f0" font-size="14" font-weight="750" letter-spacing=".8">CLOUD &amp; DEVOPS</text>
+        <text x="22" y="58" fill="#a5b4fc" font-size="13">AWS · Terraform · Docker · Kubernetes</text>
+      </g>
+      <g transform="translate(636 0)">
+        <rect width="300" height="78" rx="17" fill="url(#panel)" stroke="#a78bfa" stroke-opacity=".38"/>
+        <rect x="0" y="0" width="5" height="78" rx="2.5" fill="#a78bfa"/>
+        <circle cx="31" cy="27" r="13" fill="#a78bfa" fill-opacity=".13" stroke="#a78bfa" stroke-opacity=".55"/>
+        <ellipse cx="31" cy="23" rx="8" ry="3.5" fill="none" stroke="#c4b5fd" stroke-width="1.5"/>
+        <path d="M23 23v9c0 2 4 4 8 4s8-2 8-4v-9M23 27.5c0 2 4 4 8 4s8-2 8-4" fill="none" stroke="#c4b5fd" stroke-width="1.5"/>
+        <text x="53" y="31" fill="#e2e8f0" font-size="14" font-weight="750" letter-spacing=".8">DATA &amp; PLATFORMS</text>
+        <text x="22" y="58" fill="#c4b5fd" font-size="13">PostgreSQL · MySQL · Redis · Linux</text>
+      </g>
+    </g>
+
+    <g transform="translate(1321 332)" opacity=".65">
+      <circle r="37" fill="none" stroke="#a78bfa" stroke-opacity=".28"/>
+      <circle r="25" fill="none" stroke="#60a5fa" stroke-opacity=".36"/>
+      <circle r="6" fill="#67e8f9" filter="url(#softGlow)"/>
+      <path d="M-37 0h-44M37 0h44M0-37v-26M0 37v26" stroke="url(#brand)" stroke-width="1.5"/>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1438" height="418" rx="27" fill="none" stroke="url(#brand)" stroke-opacity=".42" stroke-width="2"/>
 </svg>
