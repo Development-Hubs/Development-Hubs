@@ -204,7 +204,6 @@ My mobile portfolio combines cross-platform product engineering with secure Lara
 |---|---|---|
 | **UK HRM & Compliance System** | HRM, employee records, attendance, leave, documents, compliance evidence, approval workflows, reporting, and secure operational controls for a UK-market organization working under relevant Home Department approval requirements | Private client work |
 | **Delivery Company ERP, Mobile Application & Website** | End-to-end delivery operations covering customers, orders, dispatch, drivers, status tracking, proof of delivery, payments, reports, administration, mobile workflows, and the public website | Private client work |
-| **Order2Eat — UK Customer Platform** | Digital ordering and business-platform engineering delivered for UK customer **Order2Eat**, with customer-facing and administrative workflows integrated around its operating requirements | Private client work |
 | **Multi-Country Manpower & Recruitment ERP Ecosystem** | Candidate, employee, client, CRM, HRM, documents, approvals, invoicing, payments, reporting, websites, mobile apps, APIs, and synchronization across eight-country operations | Private professional work |
 | **Recruitment & Manpower Operations Platform** | Configurable candidate onboarding, contracts, visa, work-contract, incident, document, deployment, notification, calendar, and reporting workflows | Private professional work |
 | **Accounting & Finance ERP** | Chart of accounts, journals, ledgers, receivables, payables, invoicing, expenses, reconciliation, multi-currency, financial statements, and audit trails | Private professional work |
@@ -219,7 +218,7 @@ My mobile portfolio combines cross-platform product engineering with secure Lara
 
 </details>
 
-> The UK HRM entry describes work for an organization operating with the relevant approval requirements; it does not claim that this GitHub profile or any public repository is government-certified. Order2Eat is identified here as a customer at the account owner's request.
+> The UK HRM entry describes work for an organization operating with the relevant approval requirements; it does not claim that this GitHub profile or any public repository is government-certified.
 
 > Planned public repositories will use fictional organizations, synthetic data, non-production credentials, and sanitized workflows. Employer code, customer records, real bank details, private documents, and proprietary integrations will remain private.
 
