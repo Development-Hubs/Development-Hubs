@@ -5,8 +5,8 @@
 <h1 align="center">Shahzad Tanveer</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack, ERP &amp; Cloud Solutions Engineer</strong><br />
-  Enterprise SaaS · Laravel · React · React Native · REST APIs · PostgreSQL · AWS · Docker · Linux
+  <strong>Senior Full-Stack, ERP, Cloud &amp; Mobile Solutions Engineer</strong><br />
+  Enterprise SaaS · Laravel · React · Flutter · React Native · Android · REST APIs · PostgreSQL · AWS · Docker · Linux
 </p>
 
 <p align="center">
@@ -136,6 +136,67 @@ Beyond the public repositories, my professional work includes:
 - Website, WordPress, WooCommerce, Shopify, payment gateway, webhook, and third-party API integrations
 
 > Employer and client source code remains private. Public repositories use original, fictional, or sanitized implementations without production credentials, customer data, real bank details, private documents, or proprietary code.
+
+## Complete GitHub Repository Index
+
+<details>
+<summary><strong>View all public repositories</strong></summary>
+
+| Repository | Purpose | Portfolio status |
+|---|---|---|
+| [**gulfledger**](https://github.com/Development-Hubs/gulfledger) | Multi-tenant GCC accounting, finance, billing, and e-invoicing-readiness SaaS architecture | Flagship · Architecture foundation |
+| [**laravel-content-management-assignment**](https://github.com/Development-Hubs/laravel-content-management-assignment) | Laravel, React, React Native, MySQL, Docker, OpenAPI, RBAC, scheduler, tests, and RTL/LTR | Completed full-stack platform |
+| [**smart-price-finder**](https://github.com/Development-Hubs/smart-price-finder) | Android application with PHP administration, REST API, and MySQL | Mobile/backend prototype |
+| [**Development-Hubs**](https://github.com/Development-Hubs/Development-Hubs) | Professional GitHub profile, portfolio presentation, engineering focus, and project index | Profile repository |
+| [**github-final-project**](https://github.com/Development-Hubs/github-final-project) | Git and GitHub foundational exercise with a simple-interest calculator | Foundational repository |
+| [**TestRepo**](https://github.com/Development-Hubs/TestRepo) | Repository sandbox used for GitHub workflow testing | Sandbox repository |
+
+</details>
+
+## Flutter & Mobile Application Portfolio
+
+My mobile portfolio combines cross-platform product engineering with secure Laravel/PHP APIs, real business workflows, English/Arabic localization, and deployment-ready architecture.
+
+| Project | Product scope | Engineering stack | Public status |
+|---|---|---|---|
+| **Manpower Connect** | Bilingual Qatar manpower marketplace with maid profiles, CV/video previews, customer addresses, orders, payments, ledger, replacement/refund workflows, notifications, and support | Flutter, Dart, Laravel REST API, MySQL, Firebase, RTL/LTR | Repository preparation |
+| **Amanal Baith Marketplace** | Customer-to-manpower-company consultation and services platform with company onboarding, candidate approval, online payments, medical/ID/delivery services, and portals | Flutter, Laravel, MySQL, payments, maps/location, RBAC | Repository preparation |
+| **ERP Field Operations Mobile** | Mobile companion for candidate processing, approvals, document capture, workflow status, incidents, alerts, and operational dashboards | Flutter, Dart, REST APIs, offline cache, push notifications | Repository preparation |
+| **Smart Price Finder — Flutter Edition** | Cross-platform price comparison with stores, products, categories, price reports, moderation, search, and administration integration | Flutter, Dart, PHP/Laravel API, MySQL | Repository preparation |
+| **GulfLedger Mobile Client** | Bilingual finance companion for dashboards, invoices, expenses, approvals, receivables, and tenant-aware access | React Native, TypeScript, OpenAPI, Laravel, PostgreSQL | Defined in GulfLedger architecture |
+
+### Mobile Engineering Capabilities
+
+- Flutter and Dart architecture using reusable widgets, navigation, state management, repositories, services, and models
+- React Native and TypeScript application development connected to versioned REST APIs
+- Native Android structure using Android Studio, Kotlin, Gradle, resources, activities, and application lifecycle
+- Secure authentication, OTP, RBAC, token management, validation, local storage, and safe environment configuration
+- Push notifications, chat, payments, media, document previews, maps, customer addresses, and status tracking
+- English/Arabic localization with accurate LTR/RTL layouts for Qatar and GCC applications
+- Responsive layouts, animations, accessibility, testing, signing, build variants, and store-release preparation
+
+## Professional Project Portfolio
+
+<details open>
+<summary><strong>Enterprise, web, mobile, finance, commerce, and automation systems</strong></summary>
+
+| Project or system | Domain and delivered scope | Visibility |
+|---|---|---|
+| **Multi-Country Manpower & Recruitment ERP Ecosystem** | Candidate, employee, client, CRM, HRM, documents, approvals, invoicing, payments, reporting, websites, mobile apps, APIs, and synchronization across eight-country operations | Private professional work |
+| **Recruitment & Manpower Operations Platform** | Configurable candidate onboarding, contracts, visa, work-contract, incident, document, deployment, notification, calendar, and reporting workflows | Private professional work |
+| **Accounting & Finance ERP** | Chart of accounts, journals, ledgers, receivables, payables, invoicing, expenses, reconciliation, multi-currency, financial statements, and audit trails | Private professional work |
+| **Construction Company ERP & Website** | Project workflows, customer inquiries, finance, expenses, documents, dashboards, and website-to-ERP integration | Private client work |
+| **Coffee Brand ERP & Finance Application** | Sales, purchases, inventory, expenses, finance reporting, products, customer workflows, and website integration | Private client work |
+| **Gym Equipment Website, Inventory & Finance ERP** | Product catalog, stock, sales, customer inquiries, expenses, finance dashboards, and connected web operations | Private client work |
+| **CRM, HRM, Inventory & POS Systems** | Users, roles, approvals, employees, stock, purchasing, sales, reporting, and operational controls | Private professional work |
+| **eCommerce & Multi-Vendor Marketplaces** | Catalogs, vendors, customers, orders, payments, delivery workflows, administration, WordPress, WooCommerce, and Shopify | Private professional work |
+| **Food Delivery & Service Platforms** | Customer ordering, delivery operations, status tracking, payments, administration, and reporting | Private professional work |
+| **Garage Management Systems** | Customers, vehicles, jobs, services, parts, invoices, payments, history, and operational dashboards | Private professional work |
+| **AI-Integrated & Business Automation Tools** | Workflow automation, data synchronization, reporting, document processing, and operational assistance | Private professional work |
+
+</details>
+
+> Planned public repositories will use fictional organizations, synthetic data, non-production credentials, and sanitized workflows. Employer code, customer records, real bank details, private documents, and proprietary integrations will remain private.
 
 ## Professional Development
 
