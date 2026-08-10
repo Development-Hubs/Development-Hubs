@@ -5,8 +5,20 @@
 <h1 align="center">Shahzad Tanveer</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack &amp; ERP Solutions Engineer</strong><br />
-  Laravel · React · REST APIs · AWS · Docker · Linux · Mobile Integration
+  <strong>Senior Full-Stack, ERP &amp; Cloud Solutions Engineer</strong><br />
+  Enterprise SaaS · Laravel · React · React Native · REST APIs · PostgreSQL · AWS · Docker · Linux
+</p>
+
+<p align="center">
+  <a href="https://github.com/Development-Hubs/gulfledger">
+    <img src="https://img.shields.io/badge/Flagship-GulfLedger-2563EB?style=flat-square&logo=github&logoColor=white" alt="GulfLedger flagship project" />
+  </a>
+  <a href="https://github.com/Development-Hubs/laravel-content-management-assignment">
+    <img src="https://img.shields.io/badge/Portfolio-Enterprise_Content_Platform-7C3AED?style=flat-square&logo=laravel&logoColor=white" alt="Enterprise Content Platform" />
+  </a>
+  <a href="https://github.com/Development-Hubs/smart-price-finder">
+    <img src="https://img.shields.io/badge/Portfolio-Smart_Price_Finder-0EA5E9?style=flat-square&logo=android&logoColor=white" alt="Smart Price Finder" />
+  </a>
 </p>
 
 <p align="center">
@@ -60,31 +72,70 @@ I specialize in turning complex recruitment, HR, finance, CRM, inventory, and op
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,java,androidstudio,firebase&perline=7" alt="Mobile application technologies" />
 </p>
 
-## Selected Public Work
+## Featured Public Portfolio
 
-### [Enterprise Content Platform](https://github.com/Development-Hubs/laravel-content-management-assignment)
+### [GulfLedger](https://github.com/Development-Hubs/gulfledger) — Flagship GCC FinTech Architecture
 
-A production-minded bilingual platform combining a Laravel 12 REST API, React administration and public interfaces, React Native mobile client, Sanctum authentication, database-driven RBAC, scheduled publishing, OpenAPI documentation, Docker, MySQL, automated backend tests, and English/Arabic RTL support.
+A production-minded, multi-tenant accounting, finance, billing, and e-invoicing-readiness SaaS portfolio platform designed for GCC business requirements.
 
-**Engineering evidence:** API design · authorization · lifecycle workflows · automated testing · containerization · mobile integration · technical documentation
+**Current portfolio status:** Phase 0 product and architecture foundation, with the requirements, architecture decisions, ERD, accounting invariants, tenant-isolation model, OpenAPI conventions, Docker-based infrastructure, governance templates, and automated foundation validation established.
 
-### [Smart Price Finder](https://github.com/Development-Hubs/smart-price-finder)
+**Target engineering stack:** Laravel 12 · PHP 8.4 · PostgreSQL RLS · Redis · React · TypeScript · React Native · OpenAPI 3.1 · Docker · Nginx · GitHub Actions · Terraform-ready AWS
 
-An Android application connected to a PHP administration panel, REST API, and MySQL database. The project demonstrates mobile-to-backend integration and practical product delivery across application, API, and data layers.
+**Engineering depth demonstrated:**
 
-**Engineering evidence:** Android · PHP · REST APIs · MySQL · administration workflows
+- Strict multi-tenant isolation through application policy, PostgreSQL row-level security, and composite ownership
+- Double-entry accounting invariants, immutable posted journals, reversals, idempotent posting, and fiscal-period controls
+- Versioned API contracts, architecture decision records, threat-model foundations, and acceptance criteria
+- AWS deployment design covering ECS/Fargate, RDS, ElastiCache, S3, Secrets Manager, CloudWatch, and WAF
+- Bilingual English/Arabic product direction with safe fictional data and non-production integrations
 
-> Employer and client source code remains private. Public repositories use original or sanitized implementations without production credentials, customer data, or proprietary code.
+> GulfLedger is an independent engineering portfolio project. It does not claim approval or certification from any tax authority, government, Peppol, ZATCA, UAE MoF/FTA, or Qatar authority.
 
-## Building Next
+---
 
-My public engineering roadmap is focused on deeper, inspectable evidence rather than technology badges:
+### [Enterprise Content Platform](https://github.com/Development-Hubs/laravel-content-management-assignment) — Completed Full-Stack Platform
 
-- A sanitized multi-stage recruitment and ERP workflow platform
-- A Laravel accounting API with double-entry controls, auditability, tests, and OpenAPI documentation
-- A production AWS deployment blueprint using Docker, Terraform, CI/CD, monitoring, and secure secret management
-- A bilingual business mobile application connected to a reusable Laravel API
-- Meaningful open-source contributions to the Laravel, PHP, API, and RTL ecosystems
+A complete bilingual content-management platform combining Laravel 12, React, React Native, MySQL, Sanctum, OpenAPI, Docker, scheduled publishing, automated testing, and database-driven access control.
+
+**Engineering depth demonstrated:**
+
+- Laravel REST API with Form Requests, API Resources, Sanctum authentication, rate limits, and stored RBAC privileges
+- React public website and administration interface with search, filtering, pagination, nested menus, and lifecycle management
+- Expo React Native client with authentication, content browsing, menu filtering, and runtime English/Arabic RTL switching
+- Dockerized API, scheduler, MySQL, phpMyAdmin, frontend, and Nginx services with repeatable seeded setup
+- Automated tests for authentication, authorization, publishing, filtering, helpers, audit ownership, and soft deletion
+- OpenAPI/Swagger documentation, health checks, architecture guides, test credentials, and reviewer-ready installation
+
+---
+
+### [Smart Price Finder](https://github.com/Development-Hubs/smart-price-finder) — Mobile and Backend Prototype
+
+An Android application connected to a PHP administration panel, REST API, and MySQL database for product, store, category, pricing, and report-management workflows.
+
+**Engineering depth demonstrated:** Android application structure · PHP backend · REST API integration · MySQL · authentication · administrative CRUD workflows · mobile-to-server data flow
+
+## Portfolio at a Glance
+
+| Project | Domain | Core stack | Evidence |
+|---|---|---|---|
+| **GulfLedger** | GCC accounting and FinTech SaaS | Laravel, PostgreSQL, Redis, React, React Native, Docker, AWS | Architecture, security, accounting invariants, OpenAPI, CI governance |
+| **Enterprise Content Platform** | Bilingual publishing and administration | Laravel, React, React Native, MySQL, Sanctum, Docker | Working full stack, RBAC, tests, scheduler, Swagger, RTL/LTR |
+| **Smart Price Finder** | Mobile price-comparison workflow | Android, PHP, REST API, MySQL | Mobile/backend integration and admin operations |
+| **Enterprise ERP systems** | Recruitment, HR, CRM, finance, inventory | Laravel, PHP, MySQL, APIs, AWS/Linux | 19 systems, 500+ users, eight-country operational experience |
+
+## Enterprise Project Experience
+
+Beyond the public repositories, my professional work includes:
+
+- Multi-country ERP ecosystems connecting recruitment, HR, finance, CRM, documents, approvals, and reporting
+- Configurable recruitment workflows covering candidate onboarding, contracts, visas, work contracts, incidents, and deployment
+- Accounting and finance functionality including ledgers, invoicing, receivables, payables, expenses, reconciliation, and audit trails
+- Responsive administration platforms, customer portals, company portals, and API-connected mobile applications
+- AWS/Linux production deployment, Nginx, SSL, scheduled jobs, queues, backups, monitoring, optimization, and incident support
+- Website, WordPress, WooCommerce, Shopify, payment gateway, webhook, and third-party API integrations
+
+> Employer and client source code remains private. Public repositories use original, fictional, or sanitized implementations without production credentials, customer data, real bank details, private documents, or proprietary code.
 
 ## Professional Development
 
